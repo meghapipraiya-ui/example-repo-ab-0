@@ -19,4 +19,4 @@ jobs:
 
       - name: Run code
 
-        run: python ml_example.py
+        run: python advanced/advanced-1/ml_example.py
