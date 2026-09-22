@@ -18,6 +18,5 @@ jobs:
 #          python-version: '3.13'
 
       - name: Run code
-        run: 
-#         - python -m pip install --upgrade pip
-          run: python advanced/advanced-1/ml_example.py
+
+        run: python ml_example.py
